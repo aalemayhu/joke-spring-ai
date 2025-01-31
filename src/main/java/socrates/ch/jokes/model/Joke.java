@@ -1,3 +1,5 @@
+package socrates.ch.jokes.model;
+
 public class Joke {
     private String content;
 

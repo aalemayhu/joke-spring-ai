@@ -1,5 +1,8 @@
+package socrates.ch.jokes.web;
+
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
+import socrates.ch.jokes.model.Joke;
 
 @RestController
 public class JokeController {
